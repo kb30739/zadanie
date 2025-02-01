@@ -1,0 +1,2 @@
+# zadanie
+z podstaw programowania
